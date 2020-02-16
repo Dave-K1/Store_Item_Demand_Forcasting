@@ -1,6 +1,6 @@
 # Store_Item_Demand_Forecasting
 
-Data: (Store Item Demand Forecasting)[https://www.kaggle.com/c/demand-forecasting-kernels-only]
+Data: [Store Item Demand Forecasting](https://www.kaggle.com/c/demand-forecasting-kernels-only)
 
 ## Files
 `01_Data_Exploration`
